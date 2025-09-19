@@ -18,7 +18,6 @@ This repository documents my **week-by-week progress** with tasks inside each we
 > *"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. Part of India's largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation's semiconductor ecosystem."*
 
 </div>
----
 
 <div align="center">
 
@@ -35,9 +34,17 @@ This repository documents my **week-by-week progress** with tasks inside each we
 
 </div>
 
----
 
-## 📅 **Week 0 — Setup & Tools**
+## �️ **Program Overview**
+
+<div align="center">
+	<img src="c:\Users\pinku\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\7C93EBE873EF213123C8AF4B188E7558\WhatsApp Image 2025-09-19 at 17.20.54_4eebeb9b.jpg" alt="Learning Path" width="700"/>
+</div>
+
+This section visually represents the complete learning path for the RISC-V SoC Tapeout Program, from RTL design to final tapeout. Each stage is covered in detail throughout the weekly modules.
+
+
+## �📅 **Week 0 — Setup & Tools**
 
 
 <!--
@@ -50,9 +57,9 @@ This week focuses on preparing the development environment with essential open-s
 -->
 ### 🛠️ **Tasks Overview**
 
-| Task | Description | Tools Installed | Status |
+| Task | Description | Status |
 |------|-------------|----------------|---------|
-| **Task 0** | 🛠️ [Tools Installation]((https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/tree/main/Week0)) | **Complete EDA Toolchain Setup** | ✅ Done |
+| **Task 0** | [Tools Installation]|  | ✅ Done |
 
 ### 📦 **Tools Installed in Week 0 - Task 0**
 
