@@ -45,6 +45,7 @@ learning Path - VSD
 	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/projectflow.jpg" alt="Learning Path" width="450"/>
 
 </div>
+
  Basic SOC Design Flow - source from Internet
 <div align="center">
 	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/SOC%20Life%20Cycle.jpg "alt="Learning Path" width="300"/>
