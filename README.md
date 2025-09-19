@@ -57,10 +57,10 @@ This week focuses on preparing the development environment with essential open-s
 -->
 ### 🛠️ **Tasks Overview**
 
-| Task | Description | Status |
-|------|-------------|----------------|---------|
-| **Task 0** | [Tools Installation]|  | ✅ Done |
 
+| Task | Description | Tools Installation Status |
+|------|-------------|----------------|---------|
+| **Task 0** | [Tools Installation](https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/tree/main/Week0/assets) | ✅ Done |
 ### 📦 **Tools Installed in Week 0 - Task 0**
 
 <div align="left">
