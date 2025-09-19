@@ -34,13 +34,15 @@ This repository documents my **week-by-week progress** with tasks inside each we
 
 </div>
 
+<div align= "center">
 
-## 🎯 **Program Overview**
+## 🎯 **Project Overview**
+
 This section visually represents the complete learning path for the RISC-V SoC Tapeout Program, from RTL design to final tapeout. Each stage is covered in detail throughout the weekly modules.
 
 learning Path - VSD 
 <div align="center">
-	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/projectflow.jpg" alt="Learning Path" width="400"/>
+	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/projectflow.jpg" alt="Learning Path" width="450"/>
 
 </div>
  Basic SOC Design Flow - source from Internet
@@ -49,7 +51,7 @@ learning Path - VSD
 
 </div>
   
-
+</div>
 
 
 ## �📅 **Week 0 — Setup & Tools**
