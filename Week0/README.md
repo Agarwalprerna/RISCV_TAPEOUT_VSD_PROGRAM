@@ -1,4 +1,4 @@
-# 🚀 Week 0: VLSI System Design (VSD) Program Foundation & Tool Setup
+# 🚀 Week 0: VLSI System Desig Program Foundation & Tool Setup
 
 <div align="center">
 
@@ -31,6 +31,8 @@ To ensure optimal performance, I configured a **Virtual Machine (VM)** with the 
 
 ---
 
+
+<!--
 ## ⚙️ **Tool Installation & Verification**
 
 The following tools were installed for RTL synthesis, simulation, circuit analysis, and layout design. Below are the installation steps and verification commands.
@@ -40,7 +42,7 @@ The following tools were installed for RTL synthesis, simulation, circuit analys
 ```
 🧠 Yosys → 📟 Iverilog → 📊 GTKWave → ⚡ Ngspice → 🎨 Magic VLSI
 ```
-
+-->
 </div>
 
 ---
