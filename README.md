@@ -38,13 +38,14 @@ This repository documents my **week-by-week progress** with tasks inside each we
 ## 🎯 **Program Overview**
 This section visually represents the complete learning path for the RISC-V SoC Tapeout Program, from RTL design to final tapeout. Each stage is covered in detail throughout the weekly modules.
 
+learning Path - VSD 
 <div align="center">
-	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/projectflow.jpg" alt="Learning Path" width="700"/>
+	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/projectflow.jpg" alt="Learning Path" width="400"/>
 
 </div>
  Basic SOC Design Flow - source from Internet
 <div align="center">
-	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/SOC%20Life%20Cycle.jpg "alt="Learning Path" width="400"/>
+	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/SOC%20Life%20Cycle.jpg "alt="Learning Path" width="300"/>
 
 </div>
   
@@ -66,7 +67,7 @@ This week focuses on preparing the development environment with essential open-s
 
 
 | Task | Description | Tools Installation Status |
-|------|-------------|----------------|---------|
+|------|-------------|---------------------------|
 | **Task 0** | [Tools Installation](https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/tree/main/Week0/assets) | ✅ Done |
 ### 📦 **Tools Installed in Week 0 - Task 0**
 
