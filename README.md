@@ -18,12 +18,20 @@ This repository documents my **week-by-week progress** with tasks inside each we
 > *"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. Part of India's largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation's semiconductor ecosystem."*
 
 </div>
+---
 
 <div align="center">
 
-```
-📝 RTL Design → 🔄 Synthesis → 🏗️ Physical Design → 🎯 Tapeout Ready
-```
+## 🎯 **Program Objectives & Scope**
+
+| Aspect | Details |
+|--------|---------|
+| 🎓 **Learning Path** | Complete SoC Design: RTL → Synthesis → Physical Design → Tapeout |
+| 🛠️ **Tools Focus** | Open-Source EDA Ecosystem (Yosys, OpenLane, Magic, etc.) |
+| 🏭 **Industry Relevance** | Real-world semiconductor design methodologies |
+| 🤝 **Collaboration** | Part of India's largest RISC-V tapeout initiative |
+| 📈 **Scale** | 3500+ participants contributing to silicon advancement |
+| 🇮🇳 **National Impact** | Advancing India's semiconductor ecosystem |
 
 </div>
 
@@ -59,22 +67,7 @@ This week focuses on preparing the development environment with essential open-s
 
 
 
-<div align="center">
 
-## 🎯 **Program Objectives & Scope**
-
-| Aspect | Details |
-|--------|---------|
-| 🎓 **Learning Path** | Complete SoC Design: RTL → Synthesis → Physical Design → Tapeout |
-| 🛠️ **Tools Focus** | Open-Source EDA Ecosystem (Yosys, OpenLane, Magic, etc.) |
-| 🏭 **Industry Relevance** | Real-world semiconductor design methodologies |
-| 🤝 **Collaboration** | Part of India's largest RISC-V tapeout initiative |
-| 📈 **Scale** | 3500+ participants contributing to silicon advancement |
-| 🇮🇳 **National Impact** | Advancing India's semiconductor ecosystem |
-
-</div>
-
----
 
 ## 🙏 **Acknowledgment**
 
@@ -90,9 +83,6 @@ I am thankful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLS
 
 ## 📈 **Weekly Progress Tracker**
 
-![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)
-![Week 1](https://img.shields.io/badge/Week%201-Coming%20Soon-lightgrey?style=flat-square)
-![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
 <!-- ![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square) -->
 <!-- ![Week 1](https://img.shields.io/badge/Week%201-Coming%20Soon-lightgrey?style=flat-square) -->
 <!-- ![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square) -->
@@ -105,13 +95,5 @@ I am thankful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLS
 ### 🚀 **Journey Continues...**
 
 Stay tuned for upcoming weeks covering RTL design, synthesis, physical design, and final tapeout preparation!
-
----
-
-<!-- Program links section for reference -->
-**🔗 Program Links:**
-[![VSD Website](https://img.shields.io/badge/VSD-Official%20Website-blue?style=flat-square)](https://vsdiat.vlsisystemdesign.com/)
-[![RISC-V](https://img.shields.io/badge/RISC--V-International-green?style=flat-square)](https://riscv.org/)
-[![Efabless](https://img.shields.io/badge/Efabless-Platform-orange?style=flat-square)](https://efabless.com/)
 
 **👨‍💻 Participant:** [ PRERNA AGARWAL ](https://github.com/Agarwalprerna)
