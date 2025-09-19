@@ -54,7 +54,7 @@ This week focuses on preparing the development environment with essential open-s
 
 ### 📦 **Tools Installed in Week 0 - Task 0**
 
-<div align="center">
+<div align="left">
 
 #### **Core RTL Design & Synthesis Tools**
 | Tool | Purpose | Verification |
@@ -62,8 +62,7 @@ This week focuses on preparing the development environment with essential open-s
 | 🧠 **Yosys** | RTL Synthesis & Logic Optimization | ✅ Verified |
 | 📟 **Iverilog** | Verilog Simulation & Compilation | ✅ Verified |
 | 📊 **GTKWave** | Waveform Viewer & Analysis | ✅ Verified |
-| ⚡ **Ngspice** | Analog & Mixed-Signal Simulation | ✅ Verified |
-| 🎨 **Magic VLSI** | Layout Design & DRC Verification | ✅ Verified |
+
 
 
 
