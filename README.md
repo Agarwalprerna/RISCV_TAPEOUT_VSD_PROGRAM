@@ -44,7 +44,7 @@ This section visually represents the complete learning path for the RISC-V SoC T
 </div>
  Basic SOC Design Flow - source from Internet
 <div align="center">
-	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/SOC%20Life%20Cycle.jpg "alt="Learning Path" width="700"/>
+	<img src="https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/blob/main/Week0/assets/SOC%20Life%20Cycle.jpg "alt="Learning Path" width="400"/>
 
 </div>
   
