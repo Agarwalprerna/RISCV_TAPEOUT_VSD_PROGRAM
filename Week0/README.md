@@ -44,8 +44,7 @@ The following tools were installed for RTL synthesis, simulation, circuit analys
 ```
 -->
 </div>
--->
----
+
 
 ### 🧠 **1. Yosys – RTL Synthesis Tool**
 
