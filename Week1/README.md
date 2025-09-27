@@ -6,7 +6,7 @@
 ---
 
 
-## Table of Contents
+## 🎯 Table of Contents
 
 - [About This Workshop](#about-this-workshop)
 - [Prerequisites](#prerequisites)
@@ -67,7 +67,7 @@ This project is licensed under the Attribution 4.0 International License - see t
 *  [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
 *  Open-source tools providers like Yosys and Sky130 PDK.
  -->
- 
+
  
 <div align="center">
 
