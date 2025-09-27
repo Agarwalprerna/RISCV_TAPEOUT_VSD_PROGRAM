@@ -86,7 +86,7 @@ This week focuses on preparing the development environment with essential open-s
 
 
 
-
+<div align="center">
 
 ## 🙏 **Acknowledgment**
 
@@ -98,7 +98,7 @@ This week focuses on preparing the development environment with essential open-s
 
 I am thankful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** for the opportunity to participate in the ongoing **RISC-V SoC Tapeout Program**.
 
-
+</div>
 
 ## 📈 **Weekly Progress Tracker**
 
