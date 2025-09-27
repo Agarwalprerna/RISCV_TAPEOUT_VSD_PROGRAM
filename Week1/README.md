@@ -1,4 +1,4 @@
-# 🚀 Week 1:  RTL Design And Synthesis Workshop Using OpenSource Tools
+# 🚀 Week 1:  RTL Design And Synthesis Workshop Using Tools
 
 
  This repository is structured into multiple days, each with its own practical labs, code examples, and explanations.
@@ -16,14 +16,14 @@
 
 ---
 
-## About This Workshop
+## ⚙️ About This Workshop
 
-This workshop is intended for students, hobbyists, and engineers who want to learn about:
+This workshop is intended for student who want to learn about:
 
 - Verilog RTL design and simulation
 - Using Icarus Verilog and GTKWave for simulation and waveform analysis
 - Logic synthesis using Yosys and the SKY130 open-source PDK
-- Key digital design concepts: testbenches, timing libraries, D flip-flop coding styles, and optimization techniques
+- Testbenches, timing libraries and optimization techniques
 
 ---
 
