@@ -1,14 +1,8 @@
 # 🚀 Week 0: VLSI System Design Program Foundation & Tool Setup
 
-<div align="center">
 
-![VLSI](https://img.shields.io/badge/VLSI-System%20Design-blue?style=for-the-badge&logo=chip)
-![Week](https://img.shields.io/badge/Week-0-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-</div>
-
-Welcome to my **VLSI System Design (VSD) Program** repository! This week focused on setting up the development environment and installing the essential open-source tools that will be used throughout the program. The goal was to create a reliable and efficient workspace for synthesis, simulation, and design tasks.
+ This week focused on setting up the development environment and installing the essential open-source tools that will be used throughout the program. The goal was to create a reliable and efficient workspace for synthesis, simulation, and design tasks.
 
 ---
 
