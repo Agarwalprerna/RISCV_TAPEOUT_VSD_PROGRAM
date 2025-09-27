@@ -1,4 +1,4 @@
-# 🚀 Week 1:  RTL Design And Synthesis Workshop Using Sky130
+# 🚀 Week 1:  RTL Design And Synthesis Workshop Using OpenSource Tools
 
 
  This repository is structured into multiple days, each with its own practical labs, code examples, and explanations.
@@ -59,11 +59,14 @@ Each day’s README includes:
 
 This project is licensed under the Attribution 4.0 International License - see the [LICENSE](./LICENSE) file for details.
 -->
+
+<!--
 ## Acknowledgements 👑
 
 *  [Shon Taware](https://www.linkedin.com/in/shon-taware/)
 *  [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
 *  Open-source tools providers like Yosys and Sky130 PDK.
+ -->
  
  
 <div align="center">
