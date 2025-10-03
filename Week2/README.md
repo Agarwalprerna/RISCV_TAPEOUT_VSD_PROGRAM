@@ -58,6 +58,7 @@ This type features a microprocessor, which can handle more demanding tasks and r
 
 ## Components of a Typical SoC
 
+## 🟧 Central Processing Unit (CPU)
 <h3 style="color:#e67e22;">Central Processing Unit (CPU)</h3>
 
 The **CPU** serves as the primary computational engine within an SoC, executing instructions and coordinating system operations. Modern SoC CPUs employ sophisticated architectures optimized for specific applications:
