@@ -59,7 +59,8 @@ This type features a microprocessor, which can handle more demanding tasks and r
 ## Components of a Typical SoC
 
 ## 🟧 Central Processing Unit (CPU)
-<h3 style="color:#e67e22;">Central Processing Unit (CPU)</h3>
+<!--
+<h3 style="color:#e67e22;">Central Processing Unit (CPU)</h3>-->
 
 The **CPU** serves as the primary computational engine within an SoC, executing instructions and coordinating system operations. Modern SoC CPUs employ sophisticated architectures optimized for specific applications:
 
@@ -85,7 +86,7 @@ The **CPU** serves as the primary computational engine within an SoC, executing 
 
 
 
-### Memory Subsystem
+### 🟧 Memory Subsystem
 
 The **memory subsystem** in an SoC encompasses multiple types of storage and memory management components:
 
@@ -113,11 +114,11 @@ The **memory subsystem** in an SoC encompasses multiple types of storage and mem
 - **Memory Management Units (MMU)**: Virtual memory support and memory protection
 - **Coherency Management**: Hardware mechanisms ensuring data consistency across multiple cores
 
-### Peripherals and I/O Interfaces
+### 🟧 Peripherals and I/O Interfaces
 
 Modern SoCs integrate numerous peripheral controllers and communication interfaces to enable connectivity with external devices:
 
-+ #### High-Speed Communication Interfaces
+ #### High-Speed Communication Interfaces
 
 **Serial Communication**:
 - **USB Controllers**: USB 2.0, 3.0, 3.1, and USB4/Thunderbolt support
@@ -131,7 +132,7 @@ Modern SoCs integrate numerous peripheral controllers and communication interfac
 - **Cellular Modems**: 4G LTE and 5G NR support with global band coverage
 - **GPS/GNSS**: Multi-constellation satellite navigation support
 
-+ #### Display and Multimedia Interfaces
+ #### Display and Multimedia Interfaces
 
 **Video Output**:
 - **HDMI Controllers**: Support for 4K/8K video output
@@ -142,7 +143,7 @@ Modern SoCs integrate numerous peripheral controllers and communication interfac
 - **MIPI-CSI**: Camera sensor connectivity
 - **Image Signal Processors (ISP)**: Real-time image processing and enhancement
 
-+ #### General-Purpose I/O
+ #### General-Purpose I/O
 
 **Configurable Interfaces**:
 - **GPIO Controllers**: Programmable digital input/output pins
@@ -154,7 +155,7 @@ Modern SoCs integrate numerous peripheral controllers and communication interfac
 - **Audio Codecs**: High-quality audio input/output processing
 - **Sensor Interfaces**: Accelerometer, gyroscope, magnetometer connectivity
 
-### Interconnect Architecture
+### 🟧 Interconnect Architecture
 
 The **interconnect system** provides the communication backbone linking all SoC components:
 
