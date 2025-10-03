@@ -58,7 +58,7 @@ This type features a microprocessor, which can handle more demanding tasks and r
 
 ## Components of a Typical SoC
 
-### Central Processing Unit (CPU)
+<h3 style="color:#e67e22;">Central Processing Unit (CPU)</h3>
 
 The **CPU** serves as the primary computational engine within an SoC, executing instructions and coordinating system operations. Modern SoC CPUs employ sophisticated architectures optimized for specific applications:
 
@@ -262,5 +262,15 @@ NVIDIA's Tegra series demonstrates the integration of high-performance GPU archi
 	- Wi-Fi 7, 5G/6G, satellite comms
 	- Hardware root of trust, confidential computing, post-quantum crypto
 ---
+<div align="center">
+
+**📂 Repository:** [RISCV_TAPEOUT_VSD_PROGRAM](https://github.com/Agarwalprerna/RISCV_TAPEOUT_VSD_PROGRAM/tree/main)  
+**👨‍💻 Author:** [Prerna]  
+**📚 Program:** VLSI System Design (VSD)
+
+
+
+</div>
+
 
 ---
