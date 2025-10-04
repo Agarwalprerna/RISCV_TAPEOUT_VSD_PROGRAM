@@ -112,3 +112,51 @@ Here we are going to model and simulate the VSDBabySoC using __iverilog__, then 
 
          
    </details>
+
+
+   
+### Testbench
+The testbench.v file is a test module to verify the functionality of vsdbabysoc. It includes signal initialization, clock generation, and waveform dumping for both pre-synthesis and post-synthesis simulations.
+Waveform Output:
+   - pre_synth_sim.vcd or post_synth_sim.vcd files generated based on simulation conditions.
+
+### Simulation Steps
+#### Pre-Synthesis Simulation
+<!--Run the following command to perform a pre-synthesis simulation:
+
+<!--
+```tcl
+iverilog -o output/pre_synth_sim/pre_synth_sim.out -DPRE_SYNTH_SIM \
+    -I src/include -I src/module \
+    src/module/testbench.v src/module/vsdbabysoc.v
+cd output/pre_synth_sim
+./pre_synth_sim.out
+```
+-->
+
+  <div align="center">
+      <img src="383277647-71e2f05c-1688-4016-adf2-3ae8a874b18a.jpeg.png" alt="VSDBabySOC" width="700"/>
+   </div>
+   
+
+
+**Explanation:**
+   - -DPRE_SYNTH_SIM: Defines the PRE_SYNTH_SIM macro for conditional compilation in the testbench.
+   - The resulting pre_synth_sim.vcd file can be viewed in GTKWave.
+
+
+<!--
+#### Viewing Waveform in GTKWave
+After running the simulation, open the VCD file in GTKWave:
+`gtkwave output/pre_synth_sim/pre_synth_sim.vcd`
+
+#### Post-Synthesis Simulation
+To run a post-synthesis simulation, use:
+```tcl
+iverilog -o output/post_synth_sim/post_synth_sim.out -DPOST_SYNTH_SIM \
+    -I src/include -I src/module \
+    src/module/testbench.v output/synthesized/vsdbabysoc.synth.v
+cd output/post_synth_sim
+./post_synth_sim.out
+```
+>
