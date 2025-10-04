@@ -56,8 +56,8 @@ A PLL typically consists of three main components:
          - Aging: Changes in frequency over time.
       - Higher ppm errors in any of these factors can lead to larger total frequency errors, impacting the accuracy of timing references in electronic systems.
    
-   
-3. **Digital to Analog Converter**:
+   ---
+   3. **Digital to Analog Converter**:
 
    - A Digital to Analog Converter (DAC) is an electronic device that converts a digital input signal (represented in binary code) into an analog output signal.
    1. Digital Signal Representation:
