@@ -4,7 +4,7 @@ VSDBabySoC is a compact yet highly capable System on Chip (SoC) based on the RIS
 
 
    <div align="center">
-      <img src="assets/VSDbabySoc.png" alt="VSDBabySOC" width="700"/>
+      <img src="VSDbabySoc.png" alt="VSDBabySOC" width="700"/>
    </div>
    
 
@@ -22,7 +22,7 @@ VSDBabySoC is a compact yet highly capable System on Chip (SoC) based on the RIS
 
      
    <div align="center">
-      <img src="assets/PLL.png" alt="PLL" width="700"/>
+      <img src="PLL.png" alt="PLL" width="700"/>
    </div>
    
 **Block Diagram**
