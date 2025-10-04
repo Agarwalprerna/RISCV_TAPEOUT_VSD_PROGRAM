@@ -1,5 +1,5 @@
 
-VSDBabySoC is a compact yet highly capable System on Chip (SoC) based on the RISC-V architecture. The primary objective of designing this small-scale SoC is to facilitate the simultaneous testing of three open-source intellectual property (IP) cores for the first time while also calibrating its analog components. The VSDBabySoC incorporates an RVMYTH microprocessor, an 8x phase-locked loop (PLL) for generating a stable clock signal, and a 10-bit digital-to-analog converter (DAC) that enables communication with various analog devices.
+VSDBabySoC is a compact yet highly capable System on Chip (SoC) based on the RISC-V architecture. The primary objective of designing this small-scale SoC is to facilitate the simultaneous testing of three open-source intellectual property (IP) cores for the first time while also calibrating its analog components. The VSDBabySoC incorporates an _RVMYTH_ microprocessor, an 8x phase-locked loop __(_PLL_) for generating a stable clock signal, and a 10-bit digital-to-analog converter (_DAC_) that enables communication with various analog devices.
 
 
 
@@ -11,9 +11,9 @@ VSDBabySoC is a compact yet highly capable System on Chip (SoC) based on the RIS
 
 ### BabySoC components
 
-   - **RVMYTH (RISC-V CPU)**: RVMYTH is the brain of BabySoC, based on the open-source RISC-V design. It's a simple, customizable CPU that handles processing tasks and communicates with other parts of the SoC. This flexibility makes RVMYTH ideal for learning and experimenting with CPU architecture.
+   1. **RVMYTH (RISC-V CPU)**: RVMYTH is the brain of BabySoC, based on the open-source RISC-V design. It's a simple, customizable CPU that handles processing tasks and communicates with other parts of the SoC. This flexibility makes RVMYTH ideal for learning and experimenting with CPU architecture.
 
-   - **Phase-Locked Loop (PLL)**: 
+   2. **Phase-Locked Loop (PLL)**: 
 
       - A Phase-Locked Loop (PLL) is a control system that generates an output signal whose phase is synchronized with an input signal. Both signals will have the same frequency and can either have no phase difference or a constant phase difference.
      
@@ -57,7 +57,7 @@ A PLL typically consists of three main components:
       - Higher ppm errors in any of these factors can lead to larger total frequency errors, impacting the accuracy of timing references in electronic systems.
    
    
-  - **Digital to Analog Converter**:
+  3. **Digital to Analog Converter**:
 
    - A Digital to Analog Converter (DAC) is an electronic device that converts a digital input signal (represented in binary code) into an analog output signal.
    1. Digital Signal Representation:
