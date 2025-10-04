@@ -1,5 +1,5 @@
 
-VSDBabySoC is a compact yet highly capable System on Chip (SoC) based on the RISC-V architecture. The primary objective of designing this small-scale SoC is to facilitate the simultaneous testing of three open-source intellectual property (IP) cores for the first time while also calibrating its analog components. The VSDBabySoC incorporates an _RVMYTH_ microprocessor, an 8x phase-locked loop __(_PLL_) for generating a stable clock signal, and a 10-bit digital-to-analog converter (_DAC_) that enables communication with various analog devices.
+VSDBabySoC is a compact yet highly capable System on Chip (SoC) based on the RISC-V architecture. The primary objective of designing this small-scale SoC is to facilitate the simultaneous testing of three open-source intellectual property (IP) cores for the first time while also calibrating its analog components. The VSDBabySoC incorporates an __RVMYTH__ microprocessor, an 8x phase-locked loop (__PLL__) for generating a stable clock signal, and a 10-bit digital-to-analog converter (__DAC__) that enables communication with various analog devices.
 
 
 
@@ -17,7 +17,7 @@ VSDBabySoC is a compact yet highly capable System on Chip (SoC) based on the RIS
 
       - A Phase-Locked Loop (PLL) is a control system that generates an output signal whose phase is synchronized with an input signal. Both signals will have the same frequency and can either have no phase difference or a constant phase difference.
      
-     - PLL in VSDBabySoc :
+      - PLL in VSDBabySoc :
       The PLL generates a stable clock signal to keep everything in BabySoC running in sync. It matches the SoC's clock with a reference frequency, ensuring reliable timing for RVMYTH and DAC. PLLs are widely used to keep signals aligned in communication and timing circuits.
 
      
