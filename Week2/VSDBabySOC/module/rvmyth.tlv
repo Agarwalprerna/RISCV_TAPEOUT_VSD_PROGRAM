@@ -11,6 +11,10 @@
    assign passed = cyc_cnt > 300;
    '], ['
    // Custom module interface for BabySoC.
+
+
+
+   
    module rvmyth(
       output reg [9:0] OUT,
       input CLK,

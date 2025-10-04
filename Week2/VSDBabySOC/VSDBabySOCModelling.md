@@ -11,8 +11,6 @@ At the end of the day, it is possible to use this small fully open-source and we
 - `src/module/` - Contains Verilog files for each module in the SoC design.
 - `output/` - Directory where compiled outputs and simulation files will be generated.
 
-
-### 1. Setup and Prepare Project Directory
 Clone or set up the directory structure as follows:
 ```txt
 VSDBabySoC/
@@ -37,9 +35,13 @@ VSDBabySoC/
 Here we are going to model and simulate the VSDBabySoC using __iverilog__, then we will show the results using __gtkwave tool__.
 
 ➔ Some initial input signals are fed into the `vsdbabysoc` module to start the PLL, which generates the proper clock (CLK) for the circuit.
+
 ➔ The clock signal enables the `rvmyth` core to execute instructions in its instruction memory (`imem`).
+
 ➔ As instructions execute, the `r17` register is filled with values cycle by cycle.
+
 ➔ These values are passed to the DAC core, which provides the final output signal named `OUT`.
+
 ➔ The design consists of __three__ main elements (IP cores) and a wrapper as the SoC, along with a testbench module for simulation.
 
 1. **Initialization and Clock Generation**: Upon receiving an initial input signal, BabySoC activates the PLL. The PLL generates a stable and synchronized clock signal, which is essential for coordinating the activities of the RVMYTH processor and DAC. By synchronizing the system, the PLL ensures that all components operate in harmony, avoiding timing mismatches and ensuring data integrity.

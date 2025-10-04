@@ -1,3 +1,8 @@
+`include "avsdpll.v"
+`include "avsddac.v"
+`include "rvmyth.v"
+
+
 module vsdbabysoc (
    output wire OUT,
    //
