@@ -135,7 +135,7 @@ cd output/pre_synth_sim
 -->
 
   <div align="center">
-      <img src="383277647-71e2f05c-1688-4016-adf2-3ae8a874b18a.jpeg.png" alt="VSDBabySOC" width="700"/>
+      <img src="383277647-71e2f05c-1688-4016-adf2-3ae8a874b18a.jpeg" alt="VSDBabySOC" width="700"/>
    </div>
    
 
